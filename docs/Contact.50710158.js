@@ -1,0 +1,2 @@
+var e=!1;document.addEventListener("DOMContentLoaded",function(){if(!e){var t;(t=document.createElement("iframe")).src="https://docs.google.com/forms/d/e/1FAIpQLScCDSwUrp-2Ry3ApaksBhhJc1aUwaPfYpH0jWS7mJ7tgz8j7A/viewform?embedded=false",t.width="640",t.height="1380",t.frameborder="0",t.marginheight="0",t.marginwidth="0",t.scrolling="no",document.getElementById("embeddedForm").appendChild(t),setTimeout(function(){t.contentWindow.postMessage(JSON.stringify({type:"submit"}),"*")},100),e=!0}});
+//# sourceMappingURL=Contact.50710158.js.map
